@@ -1,5 +1,4 @@
 # calibration-and-testing-of-single-phase-energy-meter
-# calibration-and-testing-os-single-phase-energy-meter
 Calibration and Testing of Single Phase Energy Meter.
 
 AIM
