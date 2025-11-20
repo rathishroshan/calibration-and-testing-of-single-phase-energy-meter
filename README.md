@@ -72,8 +72,7 @@ Step 10: Click on   RESET  button to refresh the webpage.
 Simulation
 Case 1
 
- <img width="940" height="376" alt="image" src="https://github.com/user-attachments/assets/abc30311-7872-433f-98d0-8bea29318ee0" />
-
+<img width="940" height="628" alt="image" src="https://github.com/user-attachments/assets/970256d6-d4d5-4e50-860f-92060a6a1f3e" />
 
 Case2
 
@@ -91,4 +90,4 @@ table
  
 
 RESULT
-Thus , the measurement of energy is simulated and verified
+Thus , the measurement of energy using single phase energy meter is verified using virtual lab.
